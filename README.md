@@ -1,6 +1,6 @@
 # folderffmpeg
 
-THIS IS A TEST TO TEST SEE WHAT AI CAN DO NOTHING MORE NOTHING LESS IT HASNT BEEN TESTED AND SHOULD NOT BE USED
+THIS IS A TEST TO SEE WHAT AI CAN DO NOTHING MORE NOTHING LESS IT HASNT BEEN TESTED AND SHOULD NOT BE USED
 
 ![Linux tested](https://img.shields.io/badge/tested-linux-brightgreen)
 ![Android tested](https://img.shields.io/badge/tested-android-brightgreen)
